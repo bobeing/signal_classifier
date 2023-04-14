@@ -1,0 +1,51 @@
+AFSK:
+  path: data_simulator.modulation_simulator.AFSK_ew_simulator.AFSK_ew_simulator
+  class_num: 0
+
+AM:
+  path: data_simulator.modulation_simulator.am_ew_simulator.am_ew_simulator
+  class_num: 1
+
+BPSK:
+  path: data_simulator.modulation_simulator.bpsk_ew_simulator.bpsk_ew_simulator
+  class_num: 2
+
+CP:
+  path: data_simulator.modulation_simulator.cpm_ew_simulator.cpm_ew_simulator
+  class_num: 3
+
+CPFSK:
+  path: data_simulator.modulation_simulator.cpfsk_ew_simulator.cpfsk_ew_simulator
+  class_num: 4
+
+FM:
+  path: data_simulator.modulation_simulator.fm_ew_simulator.fm_ew_simulator
+  class_num: 5
+
+GFSK:
+  path: data_simulator.modulation_simulator.gfsk_ew_simulator.gfsk_ew_simulator
+  class_num: 6
+
+GMSK:
+  path: data_simulator.modulation_simulator.gmsk_ew_simulator.gmsk_ew_simulator
+  class_num: 7
+
+OFDM:
+  path: data_simulator.modulation_simulator.ofdm_qpsk_ew_simulator.ofdm_qpsk_ew_simulator
+  class_num: 8
+
+QPSK:
+  path: data_simulator.modulation_simulator.qpsk_ew_simulator.qpsk_ew_simulator
+  class_num: 9
+  
+# QAM:
+#   path: data_simulator.modulation_simulator.AFSK_ew_simulator.AFSK_ew_simulator
+
+# FSK:
+#   path: data_simulator.modulation_simulator.AFSK_ew_simulator.AFSK_ew_simulator
+
+# 4FSK:
+#   path: data_simulator.modulation_simulator.AFSK_ew_simulator.AFSK_ew_simulator
+
+# APSK:
+#   path: data_simulator.modulation_simulator.AFSK_ew_simulator.AFSK_ew_simulator
